@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993576323537",
+    "project_id": "shorts-video-app-73bf0",
+    "storage_bucket": "shorts-video-app-73bf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993576323537:android:8d39c4c45883db6ac638f0",
+        "android_client_info": {
+          "package_name": "com.example.shortsvideoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTZ98VWXxWKTlaH4BbeYnDYRMlH9Ya5hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
